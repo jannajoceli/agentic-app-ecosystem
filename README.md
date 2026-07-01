@@ -7,7 +7,7 @@ The visualisation compares two interaction models:
 - **Interface agents**: apps used through chat interfaces, where the user asks and the AI acts on their behalf.
 - **Code agents**: developer-oriented extensions run from the terminal, especially through Gemini CLI.
 
-The project supports a DMI poster and website embed on the emerging agentic app ecosystem, showing how consumer delegation and developer automation form two largely separate platform worlds.
+The project supports a 2026 Digital Methods Initiative poster embed on the emerging agentic app ecosystem.
 
 Live page, once GitHub Pages is enabled:
 
